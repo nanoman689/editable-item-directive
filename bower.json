@@ -1,0 +1,18 @@
+{
+  "name": "editable-item-directive",
+  "homepage": "https://github.com/nanoman689/editable-item-directive",
+  "authors": [
+    "Jason Thomas <nanoman689@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
